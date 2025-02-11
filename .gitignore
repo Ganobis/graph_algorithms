@@ -1,0 +1,97 @@
+# Ignoruj pliki binarne i kompilowane
+[Bb]in/
+[Oo]bj/
+
+# Ignoruj pliki użytkownika
+*.user
+*.suo
+
+# Ignoruj pliki cache i narzędzi
+[Tt]humbs.db
+*.cache
+*.log
+*.ncb
+
+# Ignoruj pliki pakietów NuGet
+packages/
+*.nupkg
+NuGet.exe
+
+# Ignoruj pliki wynikowe testów
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Ignoruj pliki ReSharper
+_ReSharper.*
+*.ReSharper
+
+# Ignoruj pliki Visual Studio
+.vs/
+*.aps
+*.cache
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Ignoruj pliki NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# Ignoruj pliki StyleCop
+StyleCop.Cache
+
+# Ignoruj pliki Azure
+*.azurePubxml
+
+# Ignoruj pliki projektu
+*.pubxml
+*.publishproj
+
+# Ignoruj pliki Web Deploy
+*.ps1
+*.psm1
+
+# Ignoruj pliki SQL Server
+*.mdf
+*.ldf
+
+# Ignoruj pliki Backup & Swap
+*.bak
+*.swp
+
+# Ignoruj pliki Resharper
+_ReSharper.*
+*.ReSharper
+
+# Ignoruj pliki Visual Studio Code
+.vscode/
+
+# Ignoruj pliki Rider
+.idea/
+
+# Ignoruj pliki macOS
+.DS_Store
+
+# Ignoruj pliki Linux
+*~
+
+# Ignoruj pliki Windows
+Thumbs.db

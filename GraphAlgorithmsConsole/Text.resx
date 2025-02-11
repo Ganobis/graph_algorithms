@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- 
+		Microsoft ResX Schema
+
+		Version 1.3
+
+		The primary goals of this format is to allow a simple XML format 
+		that is mostly human readable. The generation and parsing of the 
+		various data types are done through the TypeConverter classes 
+		associated with the data types.
+
+		Example:
+
+		... ado.net/XML headers & schema ...
+		<resheader name="resmimetype">text/microsoft-resx</resheader>
+		<resheader name="version">1.3</resheader>
+		<resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+		<resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+		<data name="Name1">this is my long string</data>
+		<data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+		<data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+			[base64 mime encoded serialized .NET Framework object]
+		</data>
+		<data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+			[base64 mime encoded string representing a byte array form of the .NET Framework object]
+		</data>
+
+		There are any number of "resheader" rows that contain simple 
+		name/value pairs.
+
+		Each data row contains a name, and value. The row also contains a 
+		type or mimetype. Type corresponds to a .NET class that support 
+		text/value conversion through the TypeConverter architecture. 
+		Classes that don't support this are serialized and stored with the 
+		mimetype set.
+
+		The mimetype is used for serialized objects, and tells the 
+		ResXResourceReader how to depersist the object. This is currently not 
+		extensible. For a given mimetype the value must be set accordingly:
+
+		Note - application/x-microsoft.net.object.binary.base64 is the format 
+		that the ResXResourceWriter will generate, however the reader can 
+		read any of the formats listed below.
+
+		mimetype: application/x-microsoft.net.object.binary.base64
+		value   : The object must be serialized with 
+			: System.Serialization.Formatters.Binary.BinaryFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.soap.base64
+		value   : The object must be serialized with 
+			: System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+			: and then encoded with base64 encoding.
+
+		mimetype: application/x-microsoft.net.object.bytearray.base64
+		value   : The object must be serialized into a byte array 
+			: using a System.ComponentModel.TypeConverter
+			: and then encoded with base64 encoding.
+	-->
+	
+	<xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="root" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="data">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+								<xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+							<xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+							<xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+						</xsd:complexType>
+					</xsd:element>
+					<xsd:element name="resheader">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+							</xsd:sequence>
+							<xsd:attribute name="name" type="xsd:string" use="required" />
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<resheader name="resmimetype">
+		<value>text/microsoft-resx</value>
+	</resheader>
+	<resheader name="version">
+		<value>1.3</value>
+	</resheader>
+	<resheader name="reader">
+		<value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<resheader name="writer">
+		<value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.3500.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+	</resheader>
+	<data name="Main_GraphPath_20" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\graf_big.json</value>
+	</data>
+	<data name="Main_GraphPath_500D" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\500D.json</value>
+	</data>
+	<data name="Main_GraphPath_500S" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\500S.json</value>
+	</data>
+	<data name="Main_GraphPath_500N" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\500N.json</value>
+	</data>
+	<data name="Main_GraphPath_1000D" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\1000D.json</value>
+	</data>
+	<data name="Main_GraphPath_1000S" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\1000S.json</value>
+	</data>
+	<data name="Main_GraphPath_1000N" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\1000N.json</value>
+	</data>
+	<data name="Main_GraphPath_2000D" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\2000D.json</value>
+	</data>
+	<data name="Main_GraphPath_2000S" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\2000S.json</value>
+	</data>
+	<data name="Main_GraphPath_2000N" xml:space="preserve">
+		<value>C:\Users\WGANOBIS\Documents\Praca magisterska\2000N.json</value>
+	</data>
+	<data name="PrintTimeResults_TimeBfsAdjacencyList" xml:space="preserve">
+		<value>Czas bfsAdjacencyList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBfsAdjacencyMatrix" xml:space="preserve">
+		<value>Czas bfsAdjacencyMatrix: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBfsEdgeList" xml:space="preserve">
+		<value>Czas bfsEdgeList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBfsVertexGraph" xml:space="preserve">
+		<value>Czas bfsBfsVertexGraph: </value>
+	</data>
+	<data name="PrintTimeResults_Line" xml:space="preserve">
+		<value>------------------------------</value>
+	</data>
+	<data name="PrintTimeResults_TimeDfsAdjacencyList" xml:space="preserve">
+		<value>Czas dfsAdjacencyList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeDfsAdjacencyMatrix" xml:space="preserve">
+		<value>Czas dfsAdjacencyMatrix: </value>
+	</data>
+	<data name="PrintTimeResults_TimeDfsEdgeList" xml:space="preserve">
+		<value>Czas dfsEdgeList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeDfsTertexGraph" xml:space="preserve">
+		<value>Czas dfsDfsVertexGraph: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBellmanFordAdjacencyList" xml:space="preserve">
+		<value>Czas bellmanFordAdjacencyList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBellmanFordAdjacencyMatrix" xml:space="preserve">
+		<value>Czas bellmanFordAdjacencyMatrix: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBellmanFordEdgeList" xml:space="preserve">
+		<value>Czas bellmanFordEdgeList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBellmanFordVertexGraph" xml:space="preserve">
+		<value>Czas bellmanFordVertexGraph: </value>
+	</data>
+	<data name="PrintTimeResults_TimeDijkstraAdjacencyList" xml:space="preserve">
+		<value>Czas dijkstraAdjacencyList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeDijkstraAdjacencyMatrix" xml:space="preserve">
+		<value>Czas dijkstraAdjacencyMatrix: </value>
+	</data>
+	<data name="PrintTimeResults_TimeDijkstraEdgeList" xml:space="preserve">
+		<value>Czas dijkstraEdgeList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeDijkstraVertexGraph" xml:space="preserve">
+		<value>Czas dijkstraVertexGraph: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBoruvkaAdjacencyList" xml:space="preserve">
+		<value>Czas boruvkaAdjacencyList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBoruvkaAdjacencyMatrix" xml:space="preserve">
+		<value>Czas boruvkaAdjacencyMatrix: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBoruvkaEdgeList" xml:space="preserve">
+		<value>Czas boruvkaAEdgeList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeBoruvkaVertexGraph" xml:space="preserve">
+		<value>Czas boruvkaVertexGraph: </value>
+	</data>
+	<data name="PrintTimeResults_TimeKruskalAdjacencyList" xml:space="preserve">
+		<value>Czas kruskalAdjacencyList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeKruskalAdjacencyMatrix" xml:space="preserve">
+		<value>Czas kruskalAdjacencyMatrix: </value>
+	</data>
+	<data name="PrintTimeResults_TimeKruskalEdgeList" xml:space="preserve">
+		<value>Czas kruskalEdgeList: </value>
+	</data>
+	<data name="PrintTimeResults_TimeKruskalVertexGraph" xml:space="preserve">
+		<value>Czas kruskalVertexGraph: </value>
+	</data>
+</root>
